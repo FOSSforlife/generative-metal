@@ -2,8 +2,8 @@
 	"name" : "metal",
 	"version" : 1,
 	"creationdate" : 3824309707,
-	"modificationdate" : 3824326175,
-	"viewrect" : [ 217.0, 119.0, 300.0, 500.0 ],
+	"modificationdate" : 3824575680,
+	"viewrect" : [ 217.0, 244.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -16,12 +16,22 @@
 				"toplevel" : 1
 			}
 ,
+			"syncs.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"measure_phasor.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"syncs.maxpat" : 			{
+			"filterrapid.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"bang_timer.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -32,7 +42,7 @@
 
 		}
 ,
-		"data" : 		{
+		"externals" : 		{
 
 		}
 
